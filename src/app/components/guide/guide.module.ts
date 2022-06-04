@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { GuideComponent } from 'src/app/features/guide/guide.component';
+import { GuideComponent } from 'src/app/components/guide/guide.component';
 
 const components = [
   GuideComponent,
